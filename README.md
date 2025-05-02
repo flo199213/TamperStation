@@ -13,7 +13,7 @@ You can download the 3D print files required for the assembly from cults. Also c
 
 |                       | Link                                                                    |
 | --------------------- | ----------------------------------------------------------------------- |
-| Cults 3D Print Files: | <a href="https://cults3d.com/:XXXX">https://cults3d.com/:XXXX</a> |
+| Cults 3D Print Files: | <a href="https://cults3d.com/:2950749">https://cults3d.com/:2950749</a> |
 
 ___
 
